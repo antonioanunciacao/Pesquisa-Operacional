@@ -1,0 +1,4 @@
+Cardiovascular_disease > https://www.heart.org/idc/groups/heart-public/@wcm/@sop/@smd/documents/downloadable/ucm_483970.pdf
+Chronic_respiratory_disease > https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-790X2020000100421
+Diabetes > https://www.diabetesresearchclinicalpractice.com/action/showPdf?pii=S0168-8227%2819%2931230-6
+death rate without comorbitys > https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/covid19deathsandhospitalisationsbypreexistingconditionandage
