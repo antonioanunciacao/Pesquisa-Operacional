@@ -1,0 +1,9 @@
+Solutions before filtering: 1001
+Solutions after filtering: 1001
+
+Utopic: [   0.0000 1064.7996]
+Nadir : [1000.0000 1771.9956]
+
+HVI   : 0.633783
+
+ans = 0.6338
